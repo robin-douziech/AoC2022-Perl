@@ -1,4 +1,4 @@
 all:
 	clear
-	pp -o script day13.pl
+	pp -o script day14.pl
 	./script
